@@ -1,0 +1,4 @@
+Date,"Transaction amount",Currency,Fee,"Transaction type",Status,"Request id","Transaction hash"
+2022-02-15T06:32:58+0000,9.000000000000000000000000,fwh,0,transfer,committed,24ff63b3-8166-4221-ad60-8d2c1d93264b,
+2022-02-15T06:15:03+0000,1.000000000000000000000000,fwh,0,transfer,committed,41e7fe80-095d-4bcc-9e2c-91046402c65f,
+2022-02-14T08:40:41+0000,10.000000000000000000000000,fwh,0,transfer,committed,e4131057-6f09-4b85-b0f5-cb2fa58774e3,
